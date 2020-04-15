@@ -1,0 +1,29 @@
+{
+  "Q": {
+    "display": "Dubstep groove 131 bpm"
+  },
+  "W": {
+    "display": "Bossa nova drum beat with bass and synth rhythm"
+  },
+  "E": {
+    "display": "Electro drum beat loop sound 112 bpm"
+  },
+  "A": {
+    "display": "Analog drum beat loop 122"
+  },
+  "S": {
+    "display": "Bossa nova beat loop 65 bpm"
+  },
+  "D": {
+    "display": "Delayed drum loop 116 bpm"
+  },
+  "Z": {
+    "display": "Retro drum machine beat loop"
+  },
+  "X": {
+    "display": "Groovy drum beat 112 bpm"
+  },
+  "C": {
+    "display": "Retro disco beat cc 115 bpm"
+  }
+}
